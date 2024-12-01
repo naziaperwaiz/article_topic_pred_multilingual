@@ -9,11 +9,11 @@ This application demonstrates a article categorization tool based on zero-shot c
 
 ## Screenshot of Application
 
-# Finnish Language Detection and Topic Pediction 
+### Finnish Language Detection and Topic Pediction 
 
 ![Project Screenshot](https://raw.githubusercontent.com/naziaperwaiz/article_topic_pred_multilingual/main/Topic_prediction_multilingual_finnish.png)
 
-# English Language Detection and Topic Pediction 
+### English Language Detection and Topic Pediction 
 
 ![Project Screenshot](https://raw.githubusercontent.com/naziaperwaiz/article_topic_pred_multilingual/main/Topic_prediction_multilingual_english.png)
 
