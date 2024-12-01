@@ -7,7 +7,7 @@ This application demonstrates a article categorization tool based on zero-shot c
 1. Identify the text language     
 2. Predict the topic category based on the text and its score
 
-## Screenshot of Application
+## Screenshots of Application
 
 ### Finnish Language Detection and Topic Pediction 
 
